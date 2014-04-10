@@ -5,12 +5,25 @@
 // Where `margin-bottom` is concerned,this value will be the same as the
 // base line-height. This allows us to keep a consistent vertical rhythm.
 // As per: csswizardry.com/2012/06/single-direction-margin-declarations
-h1, h2, h3, h4, h5, h6, hgroup,
-ul, ol, dl,
-blockquote, p, address,
-table,
-fieldset, figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+
+ul,
+ol,
+dl,
+
+p,
 pre,
+address,
+blockquote,
+
+table,
+figure,
+fieldset,
 %margin-bottom {
     margin-bottom: $tree-base-spacing-unit;
     margin-bottom: ($tree-base-spacing-unit / $tree-base-font-size) * 1rem;
