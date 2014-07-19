@@ -1,7 +1,13 @@
 # Shared
 
-The`shared` module is clone of [inuitcss] (https://github.com/inuitcss) -
-[generic.shared] (https://github.com/inuitcss/generic.shared) <q>contains rulesets
-which apply a consistent, shared declaration across a number of elements</q>.
+The`shared` module contains high-level rule-sets which apply a consistent,
+shared declaration across a number of elements.
 
-It is develop and maintained by [Harry Roberts] (https://twitter.com/csswizardry).
+Install using Bower:
+
+    $ bower install --save tree-shared
+
+## Credits
+
+* **[inuitcss](https://github.com/inuitcss)** Powerful, Sass-based, OOCSS
+framework designed with scalability and performance in mind.
