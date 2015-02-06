@@ -5,7 +5,15 @@ shared declaration across a number of elements.
 
 Install using Bower:
 
-    $ bower install --save tree-shared
+```sh
+$ bower install tree-shared --save
+```
+
+Install using npm:
+
+```sh
+$ npm install tree-shared --save
+```
 
 ## Credits
 
